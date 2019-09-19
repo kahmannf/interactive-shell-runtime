@@ -1,0 +1,24 @@
+{
+  "name": "@kahmannf/interactive-shell-runtime",
+  "version": "1.0.0",
+  "description": "A Framework to build a interactive node.js shell or an cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahmannf/interactive-shell-runtime.git"
+  },
+  "keywords": [
+    "cli",
+    "shell",
+    "typescript"
+  ],
+  "author": "Felix Kahmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kahmannf/interactive-shell-runtime/issues"
+  },
+  "homepage": "https://github.com/kahmannf/interactive-shell-runtime#readme"
+}
